@@ -36,7 +36,7 @@ function freshie_profile_modules() {
     'backup_migrate',
     'content', 'text', 'optionwidgets',
     'ctools',
-    'context', 'context_ui', 'context_contrib',
+    'context', 'context_ui',
     'devel',
     'date_api', 'date_timezone', 'date',
     'features',
